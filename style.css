@@ -1,0 +1,9 @@
+section.list-headers {
+  display: flex;
+  justify-content: space-between;
+}
+
+.list-item {
+  display: flex;
+  justify-content: space-between;
+}
